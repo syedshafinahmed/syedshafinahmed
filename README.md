@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Syed Shafin Ahmed</h1>
 <h3 align="center">Computer Science student with a passion for Machine Learning, Deep Learning, and Software Development. My work spans from academic research in Natural Language Processing (NLP) to hands-on projects in Image Processing and Frontend Web Development.</h3> 
-<h4>Published a conference paper in NLP and currently engaged in projects on cyberbullying detection, and Bangla text classification.</h4>
-<h4>Learning and applying image processing techniques for real-world computer vision problems.</h4>
-<h4>Exploring frontend development to build interactive, user-friendly applications that complement AI-driven solutions.</h4>
-<h4>Areas of interest: text & image classification, model optimization, and full-stack project development.</h4>
-<h4>Continuously learning, experimenting, and contributing to the developer community. I enjoy bridging the gap between research and development, creating solutions that are not only innovative but also practical and accessible.</h4>
+<ul>
+   <li>Published a conference paper in NLP and currently engaged in projects on Cyberbullying Detection, and Bangla Text Classification.</li>
+   <li>Exploring frontend development to build interactive, user-friendly applications that complement AI-driven solutions.</li>
+   <li>Continuously learning, experimenting, and contributing to the developer community. I enjoy bridging the gap between research and development, creating solutions that are not only innovative but also practical and accessible.</li>
+   <li>Areas of interest: text & image classification, model optimization, and full-stack project development.</li>
+</ul>
    
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafinahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshafinahmed" alt="syedshafinahmed" /></a> </p>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshafinahmed" alt="syedshafinahmed" /></a> </p>-->
 
 - 📫 How to reach me **shafinahmed.cse@gmail.com**
 
@@ -28,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshafinahmed&show_icons=true&locale=en" alt="syedshafinahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedshafinahmed&" alt="syedshafinahmed" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafinahmed" /> </p>
