@@ -69,16 +69,6 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshafinahmed" alt="syedshafinahmed" /></a> </p>-->
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" height="48" width="48" /></a>
-<a href="https://www.facebook.com/share/172vjragcm/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/share/172vjragcm/" height="48" width="48" /></a>
-<a href="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" height="48" width="48" /></a>
-<a href="https://wa.me/+8801630216932" target="blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="48" width="48" /></a>
-</p>
-
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 10px;"/> </a>
@@ -110,5 +100,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshafinahmed&theme=one_dark_pro&border_color=00FFFF&show_icons=true&locale=en" alt="syedshafinahmed" height="150" width=''/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedshafinahmed&theme=one_dark_pro&border=00FFFF" alt="syedshafinahmed" height="150"/></p>-->
+
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh0dmg3cGU4cjJxNnc3cGFseGJldGwzeGQ5YWI4czRmZ3RrZjEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="32"> Contact Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" height="48" width="48" /></a>
+<a href="https://www.facebook.com/share/172vjragcm/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/share/172vjragcm/" height="48" width="48" /></a>
+<a href="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" height="48" width="48" /></a>
+<a href="https://wa.me/+8801630216932" target="blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="48" width="48" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafinahmed" /> </p>
