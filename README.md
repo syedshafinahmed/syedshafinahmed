@@ -49,8 +49,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedshafinahmed&theme=prussian&show_icons=true&locale=en&layout=donut-vertical" alt="syedshafinahmed" height="320" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshafinahmed&theme=prussian&show_icons=true&locale=en" alt="syedshafinahmed" height="150" width="500"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedshafinahmed&theme=prussian&show_icons=true&locale=en" alt="syedshafinahmed" height="150" width=''/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedshafinahmed&theme=prussian" alt="syedshafinahmed" height="150" width="480"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedshafinahmed&theme=prussian" alt="syedshafinahmed" height="150"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafinahmed" /> </p>
