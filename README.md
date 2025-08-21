@@ -50,7 +50,7 @@
 
 
 <!-- Detailed Analytics -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4M25iM3E4YmJmOGJlNDY1YmlqOTZvY3plYXlmNXd0Zmo3bmM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="32"> Detailed Analytics
 
 <div align="center">
 
