@@ -22,7 +22,7 @@
 
 
 <!-- GitHub Stats with modern cards -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4M25iM3E4YmJmOGJlNDY1YmlqOTZvY3plYXlmNXd0Zmo3bmM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="32"> GitHub Analytics
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 
 <!-- Trophies Section -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
+<!--## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=syedshafinahmed&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&v=2" />
@@ -50,7 +50,7 @@
 
 
 <!-- Detailed Analytics -->
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4M25iM3E4YmJmOGJlNDY1YmlqOTZvY3plYXlmNXd0Zmo3bmM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="32"> Detailed Analytics
+<!-- ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4M25iM3E4YmJmOGJlNDY1YmlqOTZvY3plYXlmNXd0Zmo3bmM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="32"> Detailed Analytics
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark&v=2" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedshafinahmed&theme=github_dark&utcOffset=6&v=2" />
 
-</div>
+</div> -->
    
 
 
