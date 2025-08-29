@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Syed Shafin Ahmed</h1>
-<h3 align="center">Computer Science student with a passion for Machine Learning, Deep Learning, and Software Development. My work spans from academic research in Natural Language Processing (NLP) to hands-on projects in Image Processing and Frontend Web Development.</h3> 
-<ul>
-   <li>Published a conference paper in NLP and currently engaged in projects on Cyberbullying Detection, and Bangla Text Classification.</li>
-   <li>Exploring frontend development to build interactive, user-friendly applications that complement AI-driven solutions.</li>
-   <li>Continuously learning, experimenting, and contributing to the developer community. I enjoy bridging the gap between research and development, creating solutions that are not only innovative but also practical and accessible.</li>
-   <li>Areas of interest: text & image classification, model optimization, and full-stack project development.</li>
-</ul>
+## 👋 Assalamu Alaikum, This is Syed Shafin Ahmed  
 
-- 📫 Reach me here **shafinahmed.cse@gmail.com**
+I’m a **Computer Science student** passionate about **Machine Learning, Deep Learning, and Software Development**. With experience in **NLP Research** and projects in **Image Processing** and **Frontend Development**, I love building solutions that are both **innovative and practical**.  
 
+**💡 Interests:** Full-Stack Development, NLP, Model Optimization  
+**📫 Contact:** [shafinahmed.cse@gmail.com](mailto:shafinahmed.cse@gmail.com)  
 
 
 
@@ -102,7 +97,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedshafinahmed&theme=one_dark_pro&border=00FFFF" alt="syedshafinahmed" height="150"/></p>-->
 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh0dmg3cGU4cjJxNnc3cGFseGJldGwzeGQ5YWI4czRmZ3RrZjEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="32"> Contact Me
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh0dmg3cGU4cjJxNnc3cGFseGJldGwzeGQ5YWI4czRmZ3RrZjEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="32"> Socials
 
 <p align="center">
 <a href="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" height="48" width="48" /></a>
