@@ -5,7 +5,7 @@ I’m a **Computer Science student** passionate about **Machine Learning, Deep L
 **📌 Currently Learning:** ExpressJS   
 **💡 Interests:** Full-Stack Development, NLP, Model Optimization  
 **📫 Contact:** [shafinahmed.cse@gmail.com](mailto:shafinahmed.cse@gmail.com)  
-**🌐 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)**
+**🔗 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)**
  
 
 
