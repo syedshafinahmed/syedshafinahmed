@@ -2,7 +2,7 @@
 
 I’m a **Computer Science student** passionate about **Machine Learning, Deep Learning, and Software Development**. With experience in **NLP Research** and projects in **Image Processing** and **Frontend Development**, I love building solutions that are both **innovative and practical**.  
 
-**📌 Currently Learning:** MongoDB   
+**📌 Currently Learning:** ExpressJS & MongoDB   
 **💡 Interests:** Full-Stack Development, NLP, Model Optimization  
 **📫 Contact:** [shafinahmed.cse@gmail.com](mailto:shafinahmed.cse@gmail.com)  
 **🔗 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)**
