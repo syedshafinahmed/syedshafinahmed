@@ -1,6 +1,6 @@
 ## 👋 Assalamu Alaikum, This is Syed Shafin Ahmed  
 
-I’m a **Computer Science student** passionate about **Machine Learning, Deep Learning, and Software Development**. With experience in **NLP Research** and projects in **Image Processing** and **Frontend Development**, I love building solutions that are both **innovative and practical**.  
+I’m a **Computer Science student** and a **Frontend wizard** who loves crafting crisp, modern, and lightning-fast user experiences. Currently leveling up my **Backend skills** to go full-stack! I build, break, fix, and improve things every day—because creating awesome stuff is what keeps me alive in tech 
 
 **📌 Currently Learning:** ExpressJS & MongoDB   
 **💡 Interests:** Full-Stack Development, NLP, Model Optimization  
