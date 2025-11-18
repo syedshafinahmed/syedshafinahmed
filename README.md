@@ -1,4 +1,15 @@
-## 👋 Assalamu Alaikum, This is Syed Shafin Ahmed  
+
+
+
+<img width="1050" height="600" alt="Blue and Beige Modern Real Estate Business Card" src="https://github.com/user-attachments/assets/8d413dfb-82d2-4841-8849-7e93530d3e7d" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!;This+is;Syed+Shafin+Ahmed;&center=true&size=35&color=A78BFA&font=Fira+Code&background=00000000&duration=2000&height=60">
+  </a>
+</h1>
+
+
 
 I’m a **Computer Science student** and a **Frontend wizard** who loves crafting crisp, modern, and lightning-fast user experiences. Currently leveling up my **Backend skills** to go full-stack! I build, break, fix, and improve things every day—because creating awesome stuff is what keeps me alive in tech 
 
