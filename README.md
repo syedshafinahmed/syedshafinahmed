@@ -16,7 +16,7 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 **📌 Currently Learning:** ExpressJS & MongoDB   
 **💡 Interests:** Full-Stack Development, NLP, Model Optimization  
 **📫 Contact:** [shafinahmed.cse@gmail.com](mailto:shafinahmed.cse@gmail.com)  
-**🔗 [Visit My Portfolio](https://syedshafinahmed.netlify.app/)**
+**🔗 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)**
  
 
 
