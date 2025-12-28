@@ -13,7 +13,7 @@
 
 I’m a **Computer Science student** and a **Frontend wizard** who loves crafting crisp, modern, and lightning-fast user experiences. Currently leveling up my **Backend skills** to go full-stack! I build, break, fix, and improve things every day—because creating awesome stuff is what keeps me alive in tech 
 
-**📌 Currently Learning:** ExpressJS & MongoDB   
+**📌 Currently Learning:** Next.js    
 **💡 Interests:** Full-Stack Development, NLP, Model Optimization  
 **📫 Contact:** [shafinahmed.cse@gmail.com](mailto:shafinahmed.cse@gmail.com)  
 **🔗 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)**
@@ -23,7 +23,7 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,tailwind,js,react,npm,firebase,nodejs,express,mongodb,mysql,git,github,vscode,netlify,cloudflare,vercel,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,tailwind,js,react,next,npm,firebase,nodejs,express,mongodb,mysql,git,github,vscode,netlify,cloudflare,vercel,figma,linux&theme=dark" />
 </div>
 
 
