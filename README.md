@@ -51,7 +51,7 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 <p align="center">
 <a href="https://www.linkedin.com/in/syed-shafin-ahmed/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" height="48" width="48" /></a>
 <a href="https://www.facebook.com/share/172vjragcm/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/share/172vjragcm/" height="48" width="48" /></a>
-<a href="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" height="48" width="48" /></a>
+<!-- <a href="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" height="48" width="48" /></a> -->
 <a href="https://wa.me/+8801630216932" target="blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="48" width="48" /></a>
 </p>
 
