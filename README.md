@@ -43,9 +43,11 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 <div align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=syedshafinahmed&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&v=3" 
-    style="width: 80%; height: auto;"
+    style="width: 70%; height: auto;"
   />
-</div>
+</div> 
+
+
 
 <!-- Stats -->
 <div align="center">
