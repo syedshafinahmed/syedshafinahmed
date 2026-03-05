@@ -53,7 +53,8 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedshafinahmed&theme=github_dark" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedshafinahmed&theme=github_dark" width="30%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark" width="30%" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark" width="30%" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark&ts=20260305" width="30%" />
 </div>
 
 <!-- <div align="center">
