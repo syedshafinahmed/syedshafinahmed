@@ -13,14 +13,13 @@
 
 I’m a **Computer Science student** and a **Frontend wizard** who loves crafting crisp, modern, and lightning-fast user experiences. Currently leveling up my **Backend skills** to go full-stack! I build, break, fix, and improve things every day—because creating awesome stuff is what keeps me alive in tech 
 
-**📌 Currently Learning:** Next.js & TypeScript   
-**💡 Interests:** Full-Stack Development, NLP, Model Optimization  
-**📫 Contact:** [shafinahmed.cse@gmail.com](mailto:shafinahmed.cse@gmail.com)  
-**🔗 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)**
+**🖊️ Currently Learning:** Next.js & TypeScript   
+**📘 Interests:** Full-Stack Development, NLP, Model Optimization  
+<!-- **📫 [Contact](mailto:shafinahmed.cse@gmail.com)**
+ **🔗 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)** -->
 
-
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-206597?style=for-the-badge)](https://syedshafinahmed.pages.dev/)
 <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20Views&color=206597&style=for-the-badge"/>
-
 
 
 
@@ -73,12 +72,18 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh0dmg3cGU4cjJxNnc3cGFseGJldGwzeGQ5YWI4czRmZ3RrZjEyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="32"> Socials
 
-<p align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:shafinahmed.cse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/syed-shafin-ahmed/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge)](https://www.facebook.com/shafin.ahmed.3925/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/+8801630216932)
+
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/syed-shafin-ahmed/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="https://www.linkedin.com/in/syed-shafin-ahmed-760533351/" height="48" width="48" /></a>
 <a href="https://www.facebook.com/share/172vjragcm/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/facebook.png" alt="https://www.facebook.com/share/172vjragcm/" height="48" width="48" /></a>
-<!-- <a href="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" height="48" width="48" /></a> -->
+<a href="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="https://www.instagram.com/__shafin__ahmed?igsh=mta0agj0odbqawv2yq==" height="48" width="48" /></a>
 <a href="https://wa.me/+8801630216932" target="blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="48" width="48" /></a>
-</p>
+</p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafinahmed" /> </p> -->
 
