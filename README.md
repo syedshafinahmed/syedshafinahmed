@@ -89,7 +89,7 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=033d76&height=100&section=footer" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=206597&height=100&section=footer" width="100%"/> 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=2c95da&height=150&section=footer" width="100%"/>  -->
 
 
