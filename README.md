@@ -17,7 +17,11 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 **💡 Interests:** Full-Stack Development, NLP, Model Optimization  
 **📫 Contact:** [shafinahmed.cse@gmail.com](mailto:shafinahmed.cse@gmail.com)  
 **🔗 [Visit My Portfolio](https://syedshafinahmed.pages.dev/)**
- 
+
+
+<img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20Views&color=206597&style=for-the-badge"/>
+
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
@@ -76,4 +80,15 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 <a href="https://wa.me/+8801630216932" target="blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="48" width="48" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafinahmed" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafinahmed" /> </p> -->
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=033d76&height=100&section=footer" width="100%"/> 
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=2c95da&height=150&section=footer" width="100%"/>  -->
+
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=2c95da,001122&height=160&section=footer" width="100%"/> -->
+
+
+
