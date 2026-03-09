@@ -46,18 +46,22 @@ I’m a **Computer Science student** and a **Frontend wizard** who loves craftin
 <div align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=syedshafinahmed&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&v=3" 
-    style="width: 70%; height: auto;"
+    style="width: 49%; height: auto;"
   />
+  <img 
+  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=syedshafinahmed&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&v=3"
+  width="49%"
+/>
 </div> 
 
 
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedshafinahmed&theme=github_dark" width="30%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedshafinahmed&theme=github_dark" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedshafinahmed&theme=github_dark" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedshafinahmed&theme=github_dark" width="33%" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark" width="30%" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark&ts=20260305" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark&ts=20260305" width="33%" />
 </div>
 
 <!-- <div align="center">
