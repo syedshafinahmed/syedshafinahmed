@@ -4,7 +4,7 @@
 <!-- TYPING SVG HEADER -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!;This+is;Syed+Shafin+Ahmed;&center=true&size=35&color=A4ADA8&font=Fira+Code&background=00000000&duration=2000&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!;This+is;Syed+Shafin+Ahmed;&center=true&size=35&color=A4ADA8&font=Gabarito&background=00000000&duration=2000&height=60">
   </a>
 </h1>
 
@@ -16,7 +16,7 @@ I'm a **Computer Science student** and a **Frontend wizard** who loves crafting 
 
 <!-- PORTFOLIO BADGE & PROFILE VIEWS -->
 [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-206597?style=for-the-badge)](https://syedshafinahmed.pages.dev/)
-<img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Profile%20Views&color=206597&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Impressions&color=206597&style=for-the-badge"/>
 
 <!-- TECH STACK -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
