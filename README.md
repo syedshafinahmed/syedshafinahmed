@@ -40,7 +40,7 @@ I'm a **Computer Science student** and a **Frontend wizard** who loves crafting 
     style="width: 49%; height: auto;"
   />
   <img 
-  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=syedshafinahmed&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&v=3"
+  src="https://denvercoder1-github-readme-stats.vercel.app/api?username=syedshafinahmed&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&v=4"
   width="49%"
 />
 </div> 
@@ -61,8 +61,10 @@ I'm a **Computer Science student** and a **Frontend wizard** who loves crafting 
 <!-- SOCIAL BADGES -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:shafinahmed.cse@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/syed-shafin-ahmed/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge)](https://www.facebook.com/shafin.ahmed.3925/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge)](https://discord.com/users/1440245018341277756)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/+8801630216932)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge)](https://www.facebook.com/shafin.ahmed.3925/)
+
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=206597&height=100&section=footer" width="100%"/>
