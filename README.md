@@ -15,7 +15,7 @@ I'm a **Computer Science student** and a **Frontend wizard** who loves crafting 
 **📘 Interests:** Full-Stack Development, NLP, Model Optimization  
 
 <!-- PORTFOLIO BADGE & PROFILE VIEWS -->
-[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-206597?style=for-the-badge)](https://syedshafinahmed.pages.dev/)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-206597?style=for-the-badge)](https://syedshafinahmed.vercel.app/)
 <img src="https://komarev.com/ghpvc/?username=syedshafinahmed&label=Impressions&color=206597&style=for-the-badge"/>
 
 <!-- TECH STACK -->
