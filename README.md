@@ -50,7 +50,7 @@ I'm a **Computer Science student** and a **Frontend wizard** who loves crafting 
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedshafinahmed&theme=github_dark" width="32%" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedshafinahmed&theme=github_dark" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedshafinahmed&theme=github_dark&ts=20260305" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedshafinahmed&theme=github_dark&utcOffset=8" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syedshafinahmed&theme=github_dark&utcOffset=6" width="32%" />
 </div>
 
 </div>
